@@ -1,0 +1,7 @@
+{
+  "name": "ratekart",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
